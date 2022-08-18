@@ -42,6 +42,14 @@
 		- To what extent does Spotify's marketing mix contribute to outgrowing Apple podcast (Business commentary)
 			- PDF: https://drive.google.com/file/d/1qIGQO6nqtCPF_dk9gvAZ_6LVf11VinN4/view?usp=sharing
 
+	- ### Side projects
+		- Data extraction OCR for forms
+			- Date: July 2022 - Present
+			- GitHub: https://github.com/bransonli/Project7
+		- Chatbot with automation functionalities
+			- Date: January 2021 - Feb 2021 (11th year highschool)
+			- GitHub: https://github.com/bransonli/Virtual-Assistant
+
 	- ### Activities 
 		- Summer internship at CometOne Solutions 
 			- Date: June 2021 (11th year highschool)
